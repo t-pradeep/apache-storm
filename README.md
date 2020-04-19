@@ -1,7 +1,7 @@
 # apache-storm
 
 ## Team Members Slide
-
+![Team Slide](https://github.com/pradeepkumartheegala/apache-storm/blob/master/docs/team-slide.png)
 
 ## Prerequisities
 - OpenJDK or JDK (8 or up)
