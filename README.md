@@ -1,5 +1,8 @@
 # apache-storm
 
+## Team Members Slide
+
+
 ## Prerequisities
 - OpenJDK or JDK (8 or up)
 - Apache Maven
@@ -43,7 +46,6 @@ Your paths may be different - these are the ones on my machine:
 ```
  JAVA_HOME       C:\Program Files\OpenJDK\jdk-14 
  M2_HOME         C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3   
- STORM_HOME      C:\apache-storm-2.1.0           
 ```
 ## Set/Verify Path
 System Path should include the following (using the variable or the full path works - you don't need both)
