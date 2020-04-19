@@ -93,10 +93,12 @@ search for storm and use any version
 
 For adding build, repositories, and plugin in the pom.xml follow the https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-develop-java-topology
 
-Execution of project
-```powershell
+Execution of project in cmd
+```cmd
 mvn compile exec:java -Dstorm.topology=com.mycompany.app.WordCountTopology
 ```
+Output after running the project
+![Output]{https://github.com/pradeepkumartheegala/apache-storm/blob/master/docs/results.png)
 
 ## References
 - https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-develop-java-topology
