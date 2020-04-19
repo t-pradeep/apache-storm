@@ -38,12 +38,6 @@ Open PowerShell as Administrator (anywhere) and run:
 choco install maven -y
 refreshenv
 ```
-Verify Installations
-Open PowerShell here as Administrator and run:
-```powershell
-java -version
-mvn -v
-```
 
 ## Set/Verify Environment Variables
 
